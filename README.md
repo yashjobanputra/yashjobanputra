@@ -5,13 +5,13 @@
 
 ### 👩🏻‍💻 About Me
 
-- 👩🏻‍🏫 Pursuing Master's in Information Systems at **[California State University, Los Angeles](https://www.calstatela.edu/)**
+- 👩🏻‍🏫 Pursuing Master's in Information Systems at **[San Jose State University, San Jose, CA](https://www.sjsu.edu/)**
 - 👯 Building analytical reports using data wrangling of large and complex datasets
 - 👩🏻‍🎨 Interpreting and analyzing data to draw insights 
 - 🌱 Built visualizations using R ggplot2 and Python Matplotlib
 - 🦹🏻‍♀️ Brushing up SQL by solving complex queries in HackerRank
-- 📫 How to reach me: *parekhheta2@gmail.com*
-- 😄 Pronouns: her/she
+- 📫 How to reach me: *yj.jobanputra@gmail.com*
+- 😄 Pronouns: him/he
 - 😎 Innate Nature : Hardworking and Progress-Focused 🎯
 
 ### 👩🏻‍💻 Languages and Tools
