@@ -3,7 +3,7 @@
 <h3 align="center"> Seek Data & Business Insights Analyst </h3>
 <!-- <img width="300" align="left" height="320" src="images/2.png" height="175px"/> -->
 
-### 👩🏻‍💻 About Me
+### About Me
 
 - 👩🏻‍🏫 Pursuing Master's in Data Analytics at **[San Jose State University, San Jose, CA](https://www.sjsu.edu/)**
 - 👯 Building analytical reports using data wrangling of large and complex datasets
